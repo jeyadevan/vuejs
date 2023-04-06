@@ -1,4 +1,4 @@
-# vuehelloworld
+# curdexample
 
 ## Project setup
 ```
